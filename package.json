@@ -1,0 +1,12 @@
+{
+  "name": "firebase-admin",
+  "version": "0.0.1",
+  "description": "Firebase admin",
+  "main": "index.js",
+  "author": "yannvr@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^9.11.1"
+  }
+}
